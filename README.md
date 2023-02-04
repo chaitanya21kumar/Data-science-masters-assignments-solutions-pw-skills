@@ -1,1 +1,1 @@
-# Data-science-masters-assignments-pw-skills
+# Data-science-masters-assignments-PW-skills
